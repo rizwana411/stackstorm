@@ -1,6 +1,7 @@
 ---
 name: "hello"
-runner_type: "local-shell-cmd"
+pack: hello_rizwana
+runner_type: "cmd"
 description: "Says hello with a shell command"
 entry_point: ""
 parameters:
